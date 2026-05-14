@@ -1,0 +1,15 @@
+*.parquet
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+*.zip
+*.rar
+*.7z
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+.DS_Store
+Thumbs.db
